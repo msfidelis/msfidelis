@@ -1,18 +1,11 @@
 
-![sre](./assets/img/images.jpeg)
+![sre](https://i.imgur.com/ykaNfky.jpg)
 
-<!--
-**msfidelis/msfidelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+- 🔭 I’m currently working on Pagseguro PagBank
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about Cloud, Serverless Apps, Cloud Native Architecture
+- 📫 How to reach me: matheus@nanoshots.com.br
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: HQ Addicted e Pai de Pet -->
 
