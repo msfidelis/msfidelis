@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://youtube.com/MatheusFidelissauro)](https://youtube.com/MatheusFidelissauro)
 
 
-- 🔭 I’m currently working on Pagseguro PagBank
+- 🔭 I’m currently working on Itaú Unibanco
 - 🌱 I’m currently learning Golang and Event Driven Architectures 
 - 💬 Ask me about Cloud, Serverless Apps, Cloud Native Architecture, Microservices and... Containers! 
 - 📫 How to reach me: matheus@nanoshots.com.br
