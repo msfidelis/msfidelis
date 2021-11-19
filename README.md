@@ -11,4 +11,5 @@
 - 💬 Ask me about Cloud, Serverless Apps, Cloud Native Architecture, Microservices and... Containers! 
 - 📫 How to reach me: matheus@nanoshots.com.br
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: HQ Addicted and Pai de Pet
+- ⚡ Fun fact: HQ Addicted, (home)bartender and Pai de Pet 🐱 🐶 
+- 💰 Pay me a Coffe: fe60fe92-ecba-4165-be5a-3dccf8a06bfc (pix) 
