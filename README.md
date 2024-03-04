@@ -12,4 +12,4 @@
 - 📫 How to reach me: matheus@nanoshots.com.br
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: HQ Addicted, (home)bartender and Pai de Pet 🐱 🐶 
-- 💰 Pay me a Coffe: fe60fe92-ecba-4165-be5a-3dccf8a06bfc (pix) 
+- 💰 Pay me a Coffee: fe60fe92-ecba-4165-be5a-3dccf8a06bfc (pix) 
